@@ -7,7 +7,7 @@ Hi there! Thank you for checking out my repository!
 This project uses data from
 the Grilches-Mairesse 1995 paper to conduct statistical analysis. This project
 is concerned with identifying production function parameters using between,
-fixed, random effect, and differences estimators,
+fixed effect, random effect, and differencing estimators,
 as well as constructing an Olley-Pakes like estimator.
 
 ## Table of Contents
